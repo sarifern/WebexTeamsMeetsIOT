@@ -8,4 +8,4 @@ The Webex teams bot was taken and customized from the DevNet Webexteamssdk Repo 
 All implementation details will be uploaded soon.
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/sarifern/WebexTeamsMeetsIOT)
-[(https://github.com/sarifern/WebexTeamsMeetsIOT/blob/master/Smart_Switch_Project.png)]
+[!(https://github.com/sarifern/WebexTeamsMeetsIOT/blob/master/Smart_Switch_Project.png)]
